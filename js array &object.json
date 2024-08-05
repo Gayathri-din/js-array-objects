@@ -1,0 +1,83 @@
+
+{
+  "name" : "Gayathri",
+  "contactInformation":
+   {
+    "email": "gayu.abgl@gmail.com",
+    "phone": "9788776099",
+    "address": {
+      "street": "No 8 Thirumalaisamypuram ",
+      "city": "Dindigul",
+      "state": "Tamilnadu",
+      "postalCode": "624003",
+      "country": "India"
+    },
+    "linkedIn": "https://www.linkedin.com/in/gayathri-balakrishnan-9b88446a/",
+    "github": "https://github.com/Gayathri-din"
+  },
+  "summary": "Full-stack developer with 5 years of experience in building web applications using JavaScript, React, Node.js, and MongoDB. Strong focus on delivering high-quality, scalable solutions and passionate about learning new technologies.",
+  "experience": [
+    {
+      "jobTitle": "JO (junior Officer)",
+      "company": "SMC cooperative house building society ltd",
+      "location": "Dindigul",
+      "startDate": "2022",
+      "endDate": "10th jan 2023",
+      "responsibilities": [
+        "supervising the CRM's (customer relation manager)",
+        "verifing the documentation "
+        
+      ]
+    },
+    {
+      "jobTitle": "system analyst",
+      "company": "Annamalai indane agency",
+      "location": "Kallakurichi",
+      "startDate": "june 2015",
+      "endDate": "feb 2019",
+      "responsibilities": [
+        "documantaion process ",
+        "customer care service ",
+        "cashier"
+        
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.E Computer Science and Enginnering ",
+      "institution": "Anna university",
+      "location": "Chinnasalem, Kallakurichi",
+      "graduationDate": "2014"
+    }
+  ],
+  "skills": [
+    "JavaScript",
+    "React.js",
+    "Node.js",
+    "MongoDB",
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "Git",
+    "RESTful APIs"
+  ],
+ 
+  "certifications": [
+    {
+      "name": "Ful stack Development ",
+      "issuingOrganization": "Guvi ",
+      "issueDate": "2023"
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "proficiency": "Native"
+    },
+    {
+      "language": "Tamil",
+      "proficiency": "Native "
+    }
+  ]
+}
